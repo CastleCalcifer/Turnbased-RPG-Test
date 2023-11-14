@@ -1,6 +1,6 @@
 # Turnbased RPG Test
 
-This is an old, stable release of a Turned Based RPG currently indevelopment.  
+This is an old, stable release of a Turned Based RPG currently in development.  
 Due to Unity adding in runtime fees this project is currentrly being ported to GODOT.  
 Several changes such as more enemies, additional sprites, restructure of the BattleSystem script are not reflected in this release and will be in the GODOT port.
 
